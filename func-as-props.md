@@ -1,6 +1,6 @@
 # Function-as-props
 
-I came across a really cool React component composition pattern while reading [ Kent C Dodds' article introducing Downshift ] (https://medium.com/@kentcdodds/introducing-downshift-for-react-b1de3fca0817 url). While this was a new pattern for me, it may not be for others. However for the benefit of anyone who comes across this repo, I shall introduce this nifty pattern. 
+I came across a really cool React component composition pattern while reading [Kent C Dodds' article introducing Downshift ](https://medium.com/@kentcdodds/introducing-downshift-for-react-b1de3fca0817 "url"). While this was a new pattern for me, it may not be for others. However for the benefit of anyone who comes across this repo, I shall introduce this nifty pattern. 
 
 In the first code snippet, I shall define a component that can be a parent component that exposes certain props to a stateless child component. This child component shall be a function.
 
@@ -88,5 +88,5 @@ As we have seen, this is a really powerful pattern that allows developers to exp
 
 
 Source:
-1. [Introduction to Downshift for React] (https://medium.com/@kentcdodds/introducing-downshift-for-react-b1de3fca0817 url)
-2. [Function as Child Components] (https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9 url)
+1. [Introduction to Downshift for React](https://medium.com/@kentcdodds/introducing-downshift-for-react-b1de3fca0817 "url")
+2. [Function as Child Components](https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9 "url")
