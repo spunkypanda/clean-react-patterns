@@ -1,4 +1,4 @@
-# Function-as-props
+# Function as props
 
 I came across a really cool React component composition pattern while reading [Kent C Dodds' article introducing Downshift ](https://medium.com/@kentcdodds/introducing-downshift-for-react-b1de3fca0817 "url"). While this was a new pattern for me, it may not be for others. However for the benefit of anyone who comes across this repo, I shall introduce this nifty pattern. 
 

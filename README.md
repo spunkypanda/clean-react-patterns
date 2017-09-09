@@ -6,3 +6,8 @@ Hope this helps React beginners and practitioners alike, who wished somebody wou
 
 Anybody who'd like to help out in this endeavour and/or correct me somewhere, is welcome.
 
+## Index
+
+- [Better props management with defaultProps](https://github.com/spunkypanda/clean-react-patterns/blob/master/array-as-props.md "url")
+- [Function as props](https://github.com/spunkypanda/clean-react-patterns/blob/master/func-as-props.md "url")
+
